@@ -14,3 +14,6 @@
 - [Befaco Mixer](https://library.vcvrack.com/Befaco/Mixer2) used as UTILITY MIXER
 
 ![Resonator example rack](https://raw.githubusercontent.com/d3cod3/CreativeCoding_Workshop/refs/heads/main/VCVRack/Resonator_example_rack.png)
+
+
+> Original Rack example from [not-things](https://www.youtube.com/channel/UCjYto0qE0M2n7QDvjoPgf_A)
